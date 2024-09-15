@@ -163,9 +163,9 @@ body {
 	content: " ";
 	display: block;
 	height: 12px;
-	left: -1.5px;
+	left: -15%;
 	position: absolute;
-	top: -2px;
+	top: -17%;
 	width: 12px;
 	border-radius: 50%;
 }
